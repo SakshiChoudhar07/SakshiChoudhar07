@@ -4,7 +4,7 @@
 
 ### 💻 Data Analytics Enthusiast | 🐍 Python Lover | 📊 Future Data Engineer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZtY2hzcDhrdW9jNnM1a3JzN2V3c3Y0aWJ0Z3Q2YTRwNG8zM3Q1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" width="450"/>
 
 <p>
 <a href="YOUR_LINKEDIN">
