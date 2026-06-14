@@ -7,15 +7,15 @@
 <img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" width="450"/>
 
 <p>
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sakshi-choudhary-3b6789366/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_YOUTUBE">
+<a href="https://www.instagram.com/sakshichoudhary3858?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
 <img src="https://img.shields.io/badge/Content Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sakshipersonal07@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
