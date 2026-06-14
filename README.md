@@ -76,13 +76,6 @@ class SakshiChoudhary:
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
-
-## 📊 Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
@@ -131,7 +124,7 @@ Goal:
 
 ---
 
-# 🌱 2025 Goals
+# 🌱 2026 Goals
 
 - Master Python for Data Analytics
 - Become proficient in SQL
